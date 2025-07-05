@@ -1,4 +1,4 @@
- Task 2 – Entity Extraction from Support Tickets
+Entity Extraction from Support Tickets
 Extracts products, dates, and complaint keywords/phrases from customer support tickets using predefined lists and NLP for issue analysis.
 
  Objective
